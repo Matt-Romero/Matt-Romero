@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Matt-Romero
 - 👀 I’m interested in History, Music, Linguistics, and Tech!
-- 🌱 I’m currently learning Javascript, all things wordpress, SQL and Java!
-- 💞️ I’m looking to collaborate on anything and everything.
+- 🌱 I’m currently working as a junior developer
 - 📫 How to reach me email: mattromero99@gmail.com
 
 <!---
